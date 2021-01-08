@@ -2,5 +2,5 @@
     console.log(message);
 }
 
-var message = 'Hello World';
+var message = 'Hello World!';
 log(message);
